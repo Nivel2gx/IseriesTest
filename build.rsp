@@ -1,0 +1,9 @@
+/t:exe
+/w:0
+/debug
+
+/out:ISeriesTest.exe
+/r:IBM.Data.DB2.iSeries.dll
+/r:system.dll
+/r:system.data.dll
+Program.cs
